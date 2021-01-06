@@ -1,3 +1,4 @@
 Esta es la historia de Marco Muñoz
 Mañana nos enfocaremos en su vida laboral
 Esta es el comentario de header
+Este es comentario de footer
