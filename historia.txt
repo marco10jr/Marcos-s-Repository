@@ -1,10 +1,5 @@
 Esta es la historia de Marco Muñoz
 Esta es el comentario de header
 Este es comentario de footer
-<<<<<<< HEAD
 y aqui hacinedo el pull requests
-=======
-
-
-modificacion hecha por Daniel para ver lo del fork
->>>>>>> cd0bfdbd75e342744351a29b7a235577f897d6e3
+de nuevo haciendo cambio por https
